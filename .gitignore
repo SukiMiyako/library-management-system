@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# IDE
+.vscode/
+.trae/
+
+# 数据库连接配置（如果有密码）
+config.py
+
+# 临时文件
+*.tmp
+*.log
